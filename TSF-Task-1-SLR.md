@@ -195,11 +195,11 @@ The above output shows that -
     to some other predictors or due to random cause.
 3.  The regression equation for the model is:
     Scores=2.5855+9.6164×Hours
-    Where:
-    ➡ Scores is the dependent variable (the variable being predicted).
-    ➡ Hours is the independent variable (the predictor).
-    ➡ 2.5855 is the intercept, which represents the estimated value of Scores when Hours is zero.
-    ➡ 9.6164 is the coefficient for Hours, which indicates the change in Scores for each additional hour of study.
+    - Where:
+      - Scores is the dependent variable (the variable being predicted).
+      - Hours is the independent variable (the predictor).
+      - 2.5855 is the intercept, which represents the estimated value of Scores when Hours is zero.
+      - 9.6164 is the coefficient for Hours, which indicates the change in Scores for each additional hour of study.
 
 ### Check Rest Assumptions -
 
