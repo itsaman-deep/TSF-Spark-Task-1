@@ -348,7 +348,7 @@ Now, all the assumptions of Simple Linear Regression has been satisfied.
 prediction <- model %>% predict(test_data)
 ```
 
-#### Visualization : Predicted Scores vs Hours plot for test data
+#### Visualization : Predicted Scores vs Actual Scores plot for test data
 
 ``` r
 plot(test_data$Scores, prediction)
