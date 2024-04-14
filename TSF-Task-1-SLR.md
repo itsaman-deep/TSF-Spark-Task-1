@@ -47,7 +47,7 @@ library(caret)          # For machine learning tools
 
 ``` r
 library(caTools)        # For train and test split
-library(lmtest)         # For linear regression diadnostics
+library(lmtest)         # For linear regression diagnostics
 ```
 
     ## Loading required package: zoo
