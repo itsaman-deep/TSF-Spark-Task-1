@@ -97,7 +97,7 @@ summary(st_data)
     ##  3rd Qu.:7.400   3rd Qu.:75.00  
     ##  Max.   :9.200   Max.   :95.00
 
-In the given dataset, The Target “Scores” and Predictior “Hours” both
+In the given dataset, The Target “Scores” and Predictor “Hours” both
 are Quantitative Variable. Hence, we may apply Regression on the given
 dataset.
 
